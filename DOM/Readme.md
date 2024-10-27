@@ -23,7 +23,7 @@ It allows js to change the document structure, style and content
 
 =>The style property is used to get or set a specific style of an HTML element using different CSS properties
 
-Ex: .style.color ="blue"
+Ex: style.color ="blue"
 
 
 =>Events are the actions by which the User or Browser interact with HTML elements 
